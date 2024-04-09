@@ -34,5 +34,4 @@ Overall, fetal brain segmentation is a vital component of prenatal care and rese
   <li><b> Transfer Learning </b></li>
   <li><b> Data Augmentation</b></li>
   <li><b>Albumentations </b></li>
-  <li><b> </b></li>
   </ul>
